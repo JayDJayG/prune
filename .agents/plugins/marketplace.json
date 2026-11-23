@@ -1,0 +1,20 @@
+{
+  "name": "prune",
+  "interface": {
+    "displayName": "Prune"
+  },
+  "plugins": [
+    {
+      "name": "prune",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
