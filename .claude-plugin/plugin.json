@@ -1,0 +1,14 @@
+{
+  "name": "prune",
+  "version": "0.1.0",
+  "description": "Cut wasteful agentic behaviors from your coding sessions.",
+  "author": {
+    "name": "JayDJayG",
+    "url": "https://github.com/JayDJayG"
+  },
+  "homepage": "https://github.com/JayDJayG/prune",
+  "repository": "https://github.com/JayDJayG/prune",
+  "license": "Apache-2.0",
+  "keywords": ["agent-skills", "workflow", "efficiency", "claude-code", "copilot-cli", "codex"],
+  "skills": "./skills/"
+}
